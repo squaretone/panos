@@ -1,0 +1,28 @@
+{
+  "name": "panos",
+  "version": "1.0.0",
+  "description": "Jekyll panoramic site",
+  "main": "index.js",
+  "scripts": {
+    "dev": "bundle install && bundle exec jekyll liveserve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squaretone/panos.git"
+  },
+  "keywords": [
+    "Jekyll",
+    "Github",
+    "Pages",
+    "Markdown",
+    "Panorama",
+    "VR"
+  ],
+  "author": "Eric Lawrence",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/squaretone/panos/issues"
+  },
+  "homepage": "https://github.com/squaretone/panos#readme"
+}
